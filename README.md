@@ -16,12 +16,12 @@ ChatGay 是一個 Discord 機器人，用來在被提及時發送隨機的搞笑
    pip install discord.py
    ```
 2.將專案複製到你的工作目錄：
-```bash
+   ```bash
 git clone https://github.com/yourusername/ChatGay.git
 cd ChatGay
-```
+   ```
 3.將機器人的 Token 放入 chatgay.py 中（請記得將預設 Token 替換為你自己的）。
 4.啟動機器人：
-```bash
+   ```bash
 python chatgay.py
-```
+   ```
